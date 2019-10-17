@@ -1,0 +1,20 @@
+C:\Users\delia\source\repos\Assignment 1b\bin\Debug\Assignment 1b.exe.config
+C:\Users\delia\source\repos\Assignment 1b\bin\Debug\Assignment 1b.exe
+C:\Users\delia\source\repos\Assignment 1b\bin\Debug\Assignment 1b.pdb
+C:\Users\delia\source\repos\Assignment 1b\obj\Debug\Assignment 1b.csprojAssemblyReference.cache
+C:\Users\delia\source\repos\Assignment 1b\obj\Debug\Assignment_1b.Course.resources
+C:\Users\delia\source\repos\Assignment 1b\obj\Debug\Assignment_1b.Properties.Resources.resources
+C:\Users\delia\source\repos\Assignment 1b\obj\Debug\Assignment 1b.csproj.GenerateResource.cache
+C:\Users\delia\source\repos\Assignment 1b\obj\Debug\Assignment 1b.csproj.CoreCompileInputs.cache
+C:\Users\delia\source\repos\Assignment 1b\obj\Debug\Assignment 1b.exe
+C:\Users\delia\source\repos\Assignment 1b\obj\Debug\Assignment 1b.pdb
+D:\CIT\c#\Assignment 1b\Assignment 1b\bin\Debug\Assignment 1b.exe.config
+D:\CIT\c#\Assignment 1b\Assignment 1b\bin\Debug\Assignment 1b.exe
+D:\CIT\c#\Assignment 1b\Assignment 1b\bin\Debug\Assignment 1b.pdb
+D:\CIT\c#\Assignment 1b\Assignment 1b\obj\Debug\Assignment 1b.csprojAssemblyReference.cache
+D:\CIT\c#\Assignment 1b\Assignment 1b\obj\Debug\Assignment_1b.Course.resources
+D:\CIT\c#\Assignment 1b\Assignment 1b\obj\Debug\Assignment_1b.Properties.Resources.resources
+D:\CIT\c#\Assignment 1b\Assignment 1b\obj\Debug\Assignment 1b.csproj.GenerateResource.cache
+D:\CIT\c#\Assignment 1b\Assignment 1b\obj\Debug\Assignment 1b.csproj.CoreCompileInputs.cache
+D:\CIT\c#\Assignment 1b\Assignment 1b\obj\Debug\Assignment 1b.exe
+D:\CIT\c#\Assignment 1b\Assignment 1b\obj\Debug\Assignment 1b.pdb
