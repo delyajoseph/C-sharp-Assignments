@@ -46,12 +46,13 @@ namespace Assignment_1b
                         
             if (Count < 3)
             {
+                //creating new instance of course
                 MyCourse course = new MyCourse();
-                course.name = txtBx1.Text;
-                course.courseId = Convert.ToInt32(txtBx2.Text);
+                course.name = txtBx1.Text; // assigning valuses from the text box
+                course.courseId = Convert.ToInt32(txtBx2.Text); //converting string to int
                 course.fee = Convert.ToDouble(txtBx3.Text);
                 course.duration = txtBx4.Text;
-                mycourses[Count] = course;
+                mycourses[Count] = course; //all the values to course array
                 Count++;
                 //To display the contents in the text box
                 displayTxtBx.Items.Add(txtBx1.Text);
@@ -76,14 +77,14 @@ namespace Assignment_1b
             Application.Exit();
         }
 
-        private void TxtBx4_TextChanged(object sender, EventArgs e)
-        {
+    }
 
-        }
+    class MyCourse
+    {
+        public string name;
+        public int courseId;
+        public double fee;
+        public string duration;
 
-        private void Label5_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
